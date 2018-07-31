@@ -11,3 +11,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 
 start editing src/index.js 
+
+
+http://localhost:8080/
